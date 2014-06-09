@@ -16,3 +16,8 @@ Add the following three lines to your `~/.bashrc` or `~/.zshrc` file:
     eval $( dircolors -b $HOME/.dir_colors )
     alias dir='dir --color'
     alias ls='ls --color'
+
+Screenshot
+----------
+
+[screenshot](https://github.com/ivoarch/dircolors-zenburn/raw/master/img/screenshot.png)
