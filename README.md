@@ -20,4 +20,4 @@ Add the following three lines to your `~/.bashrc` or `~/.zshrc` file:
 Screenshot
 ----------
 
-[screenshot](https://github.com/ivoarch/dircolors-zenburn/raw/master/img/screenshot.png)
+![screenshot](https://github.com/ivoarch/dircolors-zenburn/raw/master/img/screenshot.png)
