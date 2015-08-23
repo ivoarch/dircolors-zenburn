@@ -251,3 +251,9 @@ STICKY_OTHER_WRITABLE 48;5;180;38;5;234
 .pacsave 48;5;95;38;5;108
 .pacorig 48;5;95;38;5;108
 *PKGBUILD 00;38;5;110
+
+# rpm files
+.rpmsave 48;5;95;38;5;108
+.rpmorig 48;5;95;38;5;108
+.rpmnew 48;5;95;38;5;108
+.spec 00;38;5;110
