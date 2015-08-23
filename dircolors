@@ -226,6 +226,11 @@ STICKY_OTHER_WRITABLE 48;5;180;38;5;234
 .pdc 04;38;5;188
 .pdf 04;38;5;188
 
+# Files of special interest
+*rc 04;38;5;180
+.conf 04;38;5;180
+*Dockerfile 04;38;5;180
+
 # meta
 *README 04;38;5;187
 *LICENSE 04;38;5;187
